@@ -1,0 +1,44 @@
+header {
+    background-color: #328A2E;
+    font-size: 1.6em;
+    color: dark gray;
+    font-family: Arial;
+}
+
+body {
+    background-color: #034500;
+}
+
+main {
+    background-color: #328A2E;
+    font-size: 1.6em;
+    text-align: center;
+    font-family: Arial;
+}
+
+h4 {    
+    background-color: #8DCF8A;
+    font-size: 1.6em;
+    font-family: Arial;}
+
+p {
+    background-color: #5AAC56;
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-left: 80px;
+    font-size: 0.75em;
+    text-align: center;
+}
+
+img {
+    padding-top: 25px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+footer {
+    background-color: #328A2E;
+    text-align: center;
+    font-family: Arial;
+}
